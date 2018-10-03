@@ -1,7 +1,7 @@
 # Cyberball Physiological Analysis Code
 
 # This code was created by Sam Ashcroft to import, clean, manipulate and summarise over 5.5 million rows of physiological data
-# The 5.5 million rows of data are summarised in a 60 x 26 cell Excel sheet as output
+# The over 80 million rows of data are summarised in a 60 x 26 cell Excel sheet as output
 # The output is formatted so that it is ready to be imported into SPSS or used with R or Python easily as needed
 
 # install packages I usually use
